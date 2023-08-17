@@ -34,7 +34,7 @@
 ### Tech Stack <a id="tech-stack"></a>
 
 <details>
-  <summary>Ruby on Rails + React</summary>
+  <summary>Ruby on Rails</summary>
   <ul>
     <li><a>https://rubyonrails.org/</a></li>
     <!-- <li><a>https://rubyonrails.org/</a></li> -->
@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```
-  cd recipe_app
+  cd hello-rails-back-end
   bundle install && npm install
 ```
 
@@ -105,20 +105,6 @@ or
 
 ```
 ./bin/dev
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```
-  rubocop --color
-```
-```
-  npx stylelint "**/*.{css,scss}"
-```
-```
-  rspec spec
 ```
 
 

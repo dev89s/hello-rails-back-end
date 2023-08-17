@@ -99,7 +99,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```
-  rails s
+  rails s -p 3000
 ```
 or
 

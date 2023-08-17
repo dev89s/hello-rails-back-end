@@ -27,7 +27,7 @@
 
 # 📖 [Hello Rails Backend] <a id="about-project"></a>
 
-**[Hello Rails Backend]** is a test app based on Ruby on Rails and setup as an API backend to serve for a front end.
+**[Hello Rails Backend]** is a test app based on Ruby on Rails and setup as an API backend to serve for a [front end](https://github.com/dev89s/hello-react-front-end).
 
 ## 🛠 Built With <a id="built-with"></a>
 
